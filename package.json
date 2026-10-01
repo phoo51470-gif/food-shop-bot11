@@ -1,0 +1,14 @@
+{
+  "name": "telegram-food-shop-bot",
+  "version": "2.0.0",
+  "description": "Telegram Food Shop Ordering Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "node-telegram-bot-api": "^0.66.0",
+    "pg": "^8.13.1"
+  }
+}
